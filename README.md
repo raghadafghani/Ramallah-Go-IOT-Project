@@ -9,3 +9,5 @@ Amazon Go is a new kind of store where customers can shop without waiting in lin
 🛒 Project Focus:
 This project focuses on exploring the use of Internet of Things (IoT) and security measures for the proposed Amazon Go store in Palestine. We want to design a comprehensive solution that combines IoT, AI, and security to create an efficient and secure shopping experience for customers in Iceland.
 
+![373459227_319520690756795_8809152648361983936_n](https://github.com/raghadafghani/Ramallah-Go-IOT-Project/assets/105122460/22a07f8b-1c42-4f9c-a690-47c14bd7c095)
+
